@@ -368,6 +368,7 @@ a:hover {
   display: flex;
   justify-content: center;
   margin-bottom: 10px;
+  text-align: center;
 }
 .description p {
   font-size: 22px;
@@ -378,6 +379,12 @@ blockquote {
 }
 .portfolio-title {
   margin-bottom: 30px;
+}
+.purpose-title {
+  font-size: 22px;
+}
+.purpose-content {
+  font-size: 16px;
 }
 
 @media (min-width: 768px) {
