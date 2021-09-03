@@ -371,11 +371,13 @@ a:hover {
 }
 .description p {
   font-size: 22px;
-  text-align: center;
 }
 blockquote {
   font-weight: bold;
   opacity: 1;
+}
+.portfolio-title {
+  margin-bottom: 30px;
 }
 
 @media (min-width: 768px) {
