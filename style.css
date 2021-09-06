@@ -37,6 +37,7 @@ a:hover {
   -o-background-size: cover;
   background-size: cover;
   position: relative;
+  padding: 0;
 }
 
 .bloc .container {
@@ -383,8 +384,30 @@ blockquote {
 .purpose-title {
   font-size: 22px;
 }
+.footer-title {
+  font-size: 14px;
+  padding: 10px;
+}
+.banner-title {
+  color: black;
+  text-align: center;
+}
+.banner-text {
+  font-size: 16px;
+  text-align: center;
+  color: black !important;
+}
+.adress {
+  font-size: 20px;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
 .purpose-content {
   font-size: 16px;
+}
+.s2-content {
+  font-size: 14px;
 }
 
 @media (min-width: 768px) {
@@ -681,10 +704,6 @@ a {
   color: #575757 !important;
 }
 
-.container {
-  max-width: 1000px;
-}
-
 .hero-bloc-text {
   font-size: 38px;
 }
@@ -803,6 +822,7 @@ h4 {
 
 .tc-white {
   color: #f3976c !important;
+  text-align: center;
 }
 
 .btn-atomic-tangerine {
@@ -846,6 +866,7 @@ h4 {
 
 .bg-banniere {
   background-image: url("img/la-chouette-agence-banniere.jpg");
+  width: 100%;
 }
 
 .bg-presentation {
