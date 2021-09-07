@@ -376,7 +376,11 @@ a:hover {
 }
 blockquote {
   font-weight: bold;
-  opacity: 1;
+  opacity: 0.8;
+  color: black;
+}
+figcaption {
+  color: black;
 }
 .portfolio-title {
   margin-bottom: 30px;
