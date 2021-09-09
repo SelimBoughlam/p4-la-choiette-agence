@@ -391,6 +391,7 @@ figcaption {
 .footer-title {
   font-size: 14px;
   padding: 10px;
+  color: black;
 }
 
 .banner-title {
@@ -706,7 +707,6 @@ label,
 a {
   font-family: "helvetica";
   font-weight: 400;
-  color: #575757 !important;
 }
 
 .hero-bloc-text {
@@ -748,6 +748,10 @@ p {
   padding: 12px 28px 12px 28px;
   font-size: 16px;
   font-weight: 700;
+}
+
+#cta-hero {
+  color: black !important;
 }
 
 .social {
@@ -804,7 +808,7 @@ h4 {
 }
 
 .black-background {
-  background-color: rgba(165, 147, 99, 0.7);
+  background-color: rgb(53 39 3 / 70%);
   padding: 40px 40px 40px 40px;
 }
 
@@ -826,7 +830,7 @@ h4 {
 }
 
 .tc-white {
-  color: #f3976c !important;
+  color: #ffc7ad !important;
   text-align: center;
 }
 
