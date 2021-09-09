@@ -414,6 +414,7 @@ figcaption {
 }
 .s2-content {
   font-size: 14px;
+  color: black;
 }
 
 @media (min-width: 768px) {
