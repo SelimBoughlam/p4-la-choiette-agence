@@ -393,6 +393,9 @@ figcaption {
   padding: 10px;
   color: black;
 }
+.img-text {
+  color: black;
+}
 
 .banner-title {
   color: black;
@@ -729,7 +732,7 @@ a {
 }
 
 p {
-  font-size: 11px;
+  font-size: 13px;
 }
 
 .tight-width-whitespace {
